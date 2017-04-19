@@ -21,7 +21,7 @@ using System.IO;
 [SuppressMessage("ReSharper", "UseStringInterpolation")]
 public static class DiaryMaker
 {
-    private const string TemplatePath = "template.md";
+    private const string TemplatePath = "_template.md";
 
     public static void CreateNewEntryFromTemplate(string author, string bookName)
     {

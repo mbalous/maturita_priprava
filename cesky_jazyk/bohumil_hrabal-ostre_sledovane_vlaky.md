@@ -10,6 +10,7 @@
 - pracoval u železnice
 - známý **román** "Obsluhoval jsem anglického krále"
 - motiv sebevraždy se oběvuje ve více jeho dílech
+- mnoho jeho knih se dočkalo **zfilmování**
 
 ## Druh a žánr
 prozaická novela
@@ -20,6 +21,10 @@ druhá vlna poválečné prózy – prvky surrealismu
 ## Místo a čas
 - nádraží Kostomlaty
 - konec 2. světové války
+
+## Charakteristika díla
+Kniha je portrétem mladého muže a jeho sexuálních frustrací. To vše se děje na pozadí 2. světové války v roce 1945. Válka je zde kritizována, protože v ní zbytečně umírali lidé, obyčejní lidé byli najednou stavěni do pozice nepřátel. Je zde zobrazeno, jak válka lidi mění. Novela prezentuje názor, že lidé by neměli jen nečinně přihlížet, ale sami se pokoušet bojovat.
+[Zdroj](http://www.zapnimozek.cz/ctenarskydenik/ostre-sledovane-vlaky/)
 
 ## Obsah
 Miloš Hrma se vrací do služby na malou železniční stanici. Vzpomíná na to, proč byl v pracovní neschopnosti. Zamiloval se totiž do průvodčí Máši, se kterou společně natírali plot. A když se měli poprvé milovat, měl Miloš problém s předčasnou ejakulací. Tento nezdar ho poznamenal natolik, že se pokusil spáchat sebevraždu podřezáním žil. Byl však zachráněn pozorným zedníkem.
@@ -32,6 +37,7 @@ Jednoho večera se výpravčí Hubička svěřuje Milošovi se svým plánem vyh
 
  - Miloš - **vypravěč**, mladý nezkušený  výpravčí, citlivý
  - Hubička - výpravčí, sukničkář
+ - přednosta stanice - chovatel holubů, vylevá si hněv na ženě
  - Zdenička - telegrafistka, kterou Hubička potiskl
  - Viktoria Freie - krásná Rakušanka
  - Máša - dívka Miloše
@@ -46,3 +52,6 @@ vulgarismy
 
 ## Hlavní smysl díla
 Dopady války na lidské životy
+
+## Úryvek
+> A já mu nasadil hlaveň pušky k oku a stiskl spoušť, tak divně jsem při tom ležel. A pak jsem slyšel, jak zmlkl, viděl jsem, jak jeho nohy zvolna a tiše došly, zastavily se, ležel jsem na něm a slyšel, jak do vojáka vniká klid a ticho, jak se všechno zastavuje, jak stroje, když padla. A ze mne crčela krev a třísnil jsem vojákovi šaty, vytáhl jsem kapesník a snažil jsem se čistit tu krvavou skvrnu a oddychoval jsem a začal jsem se dusit, ale vší silou jsem se převalil a natáhl jsem ruku a chytil ten řetízek, kterého se držel voják, jehož obličej zklidněl, jen místo pravého oka byla ožehnutá díra jako modrý monokl... a utrhl jsem ten řetízek, kterého se držel mrtvý, a ve světle měsíce jsem viděl, že to je medailónek, na jehož jedné straně je zelený čtyřlístek a na druhé straně nápis: Bringe Glück. A nepřinesl štěstí ten čtyřlístek ani tomu vojákovi, ani mně, taky to byl člověk jako já nebo pan výpravčí Hubička, taky neměl žádné vyznamenání, žádnou hodnost, a přece jsme jeden druhého postřelili a jeden druhého přivedli ke smrti, ač jistě, kdybychom se někde potkali v civilu, možná, že bychom se měli rádi, pohovořili si.

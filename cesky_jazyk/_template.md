@@ -1,25 +1,34 @@
-# %author% - %book% 
+# %author% - %book%
 
 ----------
 
-## Autor
+## Dílo
 
-## Druh a žánr
+### Téma a motiv
 
-## Literární směr
 
-## Místo a čas
+### Místo a čas
 
-## Obsah
 
-## Postavy
+### Kompozice
 
- - A
- - B
- - C
 
-## Kompozice
+### Literární druh a žánr
 
-## Jazykové prostředky
 
-## Hlavní smysl díla
+### Jazykové prostředky
+
+
+### Postavy
+
+
+### Děj
+
+
+## Literárně-historický kontext
+
+
+### Kontext Autorovy tvorby
+
+
+### Literární / kulturní kontext

@@ -46,6 +46,7 @@ chronologická
 	- lakomý, panovačný
 	- trpí jeho děti i služebnictvo
 	- bohatství je pro něj důležitější než vlastní život a rodina
+	- sám si chce vzít Marianu
 - Kleantes
 	- Harpagonův syn
 	- nechápe otcovu posedlost penězmi
@@ -65,9 +66,11 @@ chronologická
 	- zamilovaný do Elišky
 	- úlisný slídil aby se zalíbil Harpagonovi
 	- donáší na služebnictvo
-- Čipera (Štika)
-	- Kleantův oddaný a dobromyslný sluha
-	- S myšlenkou, že svému pánovi pomůže, vymyslí lest a ukradne Harpagonovu truhlici
+- Anselm
+	- bohatý šlechtic
+	- otec Valéra a Mariany
+- La Fléche
+	- Kleantův sluha
 - Frosina
 	- dohazovačka
 	- nakonec pomůže Klentesovi

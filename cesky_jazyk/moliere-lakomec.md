@@ -72,7 +72,7 @@ chronologická
 	- dohazovačka
 	- nakonec pomůže Klentesovi
 
-![Relationships](/resources/lakomec_relationships.png)
+![Relationships](resources/lakomec_relationships.svg)
 
 ### Děj
 Příběh se odehrává v Paříži roku 1670. Pojednává o životě lakomce Harpagona. Harpagon žije v domě se svými dvěma dětmi - Kleantem a Eliškou. Všichni o něm ví, že je velice bohatý, ale zároveň lakomý a pomlouvá ostatní. Jeho největší starostí je, aby dětem nemusel dávat k svatbě věno, ale aby jej dostaly ony. Tyto pomluvy jeho dětem ztěžují společenský život.

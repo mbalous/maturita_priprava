@@ -50,6 +50,6 @@ Xaverius je vězněn za podezření za krádež drahokamů na obrazu umírajíc�
 ### Kontext Autorovy tvorby
 - Svatý Xaverius je první prózou, kterou na radu J.Nerudy autor označil jako ,,pražské romaneto“.
 
-## Literární / kulturní kontext
+### Literární / kulturní kontext
 - realismus (logické vyřešení záhad, dlouhé popisné pasáže, realistické vyobrazení postav)
 - romantismus (rozvrácený hlavní hrdnina, noční kostel)

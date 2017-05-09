@@ -2,24 +2,44 @@
 
 ----------
 
-## Autor
-- anglický básník
-- možná největší světový dramatik
-- o jeho soukromém životě existuje málo informací
+## Dílo
 
-## Druh a žánr
-tragédie
+### Téma a motiv
+Jde o **tragédii** jejíž námětem je tragická láska dvou mladých lidí ze znepřátelených rodů. Inspirací byl Shakespearovi motiv dvou milenců notoricky známý už z antiky a epická báseň anglického básníka Arthura Brookea. 
+- motivy
+	- pomsta
+	- nenávist
+	- smrt
+	- usmíření
 
-## Literární směr
-
-## Místo a čas
-autorova současnost = **konec 16. století**
+### Místo a čas
+autorova současnost, tj. **konec 16. století**
 Italské město **Verona**
 
-## Charakteristika díla
-Jde o **tragédii** jejíž námětem je tragická láska dvou mladých lidí ze znepřátelených rodů. Inspirací byl Shakespearovi motiv dvou milenců notoricky známý už z antiky a epická báseň anglického básníka Arthura Brookea. Dalšími motivy jsou pomsta, nenávist, smrt, usmíření.
+### Kompozice
+- chronologická
+- prolog + **5** dějství
 
-## Obsah
+
+### Literární druh a žánr
+tragédie
+
+### Jazykové prostředky
+- spisovný, vnešený a vytříbený jazyk
+- užití metafor, přirovnání, hyperbol
+- dlouhé dialogy
+
+### Postavy
+- Romeo Montek – Je hrdý, čestný a odvážný, má poetickou duši. Pro svou lásku je ochoten obětovat život.
+- Julie Kapuletová – Krásná, věrná a poslušná. Je velmi mladá a naivní. Romea miluje nadevše.
+- Merkucio – Bojovný a agresivní. Příbuzný veronského vévody. Romeův přítel.
+- Benvolio – Romeův bratranec a přítel.
+- Tybalt – Horlivý, nenávistný a pomstychtivý bratranec Julie.
+- Paris – Mladý šlechtic, příbuzný veronského vévody. Je milý a upřímný, vytrvalý. Juliin otec by za něj rád provdal svou dceru.
+- Bratr Vavřinec – Františkán. Hodný a obětavý Romeův přítel. Podporuje lásku mladých milenců.
+- Chůva – Juliina chůva. Prostá žena. Julii miluje jako svou vlastní dceru.
+
+### Děj
 V severoitalském městě Verona mezi sebou mají dva mocné rody – Montekové a Kapuletové – letité spory. Jejich střety zaplňují téměř celé první jednání.
 
 Kapuletovi mají mladou, čtrnáctiletou dceru Julii, kterou chtějí provdat za mladého šlechtice Parise. K této příležitosti chystají ve svém sídle maškarní ples. Dozví se o něm i Romeo, syn Monteka, a společně se svými věrnými přáteli Merkuciem a Benvoliem se rozhodne zúčastnit. Trojice přichází zahalená v maskách, aby nebyla k poznání. Přesto však Tybalt, bratranec Julie, Romea pozná, ale starý Kapulet ho nenechá zasáhnout, nechce skandály.
@@ -30,39 +50,26 @@ Již vdané Julii otec oznámí, že ji druhý den čekají vdavky s Parisem. Ju
 
 Po vypití nápoje Julie skutečně vypadá jako mrtvá. Paris její smrti věří a chystá pohřeb. I Romeo se okamžitě doví o její smrti a i on jí uvěří. Posel k němu totiž nikdy nedorazil. Romea Juliina smrt naprosto zdrtí. Ani on už nechce žít a obstará si lahvičku jedu. Vrátí se tajně do Verony, aby se naposledy rozloučil s Julií. Políbí spící Julii a vypije jed. Mrtvý klesne vedle ní. V tom se Julie probudí a najde tělo svého manžela. Je tak nešťastná, že se probodne dýkou, aby nemusela žít bez něho. Tragédie alespoň ukončí vleklý spor Kapuletů a Monteků. Oba rody se usmíří a postaví mladým milencům ve Veroně zlatou sochu.
 
+## Literárně-historický kontext
 
-## Postavy
-- Romeo Montek – Je hrdý, čestný a odvážný, má poetickou duši. Pro svou lásku je ochoten obětovat život.
-- Julie Kapuletová – Krásná, věrná a poslušná. Je velmi mladá a naivní. Romea miluje nadevše.
-- Merkucio – Bojovný a agresivní. Příbuzný veronského vévody. Romeův přítel.
-- Benvolio – Romeův bratranec a přítel.
-- Tybalt – Horlivý, nenávistný a pomstychtivý bratranec Julie.
-- Paris – Mladý šlechtic, příbuzný veronského vévody. Je milý a upřímný, vytrvalý. Juliin otec by za něj rád provdal svou dceru.
-- Bratr Vavřinec – Františkán. Hodný a obětavý Romeův přítel. Podporuje lásku mladých milenců.
-- Chůva – Juliina chůva. Prostá žena. Julii miluje jako svou vlastní dceru.
+### Kontext Autorovy tvorby
+- anglický básník
+- možná největší světový dramatik
+- o jeho soukromém životě existuje málo informací
 
-## Kompozice
-- chronologická
-- prolog + **5** dějství
-
-## Jazykové prostředky
-- spisovný, vnešený a vytříbený jazyk
-- užití metafor, přirovnání, hyperbol
-- dlouhé dialogy
-
-## Hlavní smysl díla
+### Literární / kulturní kontext
 
 ## Ukázka
-> **Julie**
+> **Julie**:
 > Zavři ty dveře a pojď se mnou plakat!
 > Tatam je naděj! Všechno je totam!
-> 
-> **Vavřinec**
+>
+> **Vavřinec**:
 > Ach, slyšel jsem už, co tě trápí, dcero.
 > Jsem z toho bez sebe. Máš se prý vdát
 > ve čtvrtek, bez odkladu, za hraběte.
-> 
-> **Julie**
+>
+> **Julie**:
 > Neříkej mi, žes o tom slyšel, otče,
 > když nevíš, jak bys tomu mohl bránit.
 > Jestliže tvoje moudrost nepomůže,
@@ -75,14 +82,14 @@ Po vypití nápoje Julie skutečně vypadá jako mrtvá. Paris její smrti věř
 > a zběhne - tohleto je zchromí obě.
 > Proto mi z hlubiny svých zkušeností
 > dej ihned radu nebo pohleď na to,
-> jak mezi trápením a mnou ten nůž 
+> jak mezi trápením a mnou ten nůž
 > sehraje rozhodčího, který srovná,
 > co všechen majestát tvých věd a let
 > k čestnému konci dovést nedokázal.
 > Mluv, otče, rychle mluv. Já zemřít žízním,
 > když neřekneš, co uleví mým trýzním.
-> 
-> **Vavřinec**
+>
+> **Vavřinec**:
 > Klid, milá dcero! Vidím jakous naděj.
 > Leč provedení žádá zoufalého,
 > jako je zoufalé, co chceme zmařit.
@@ -92,8 +99,8 @@ Po vypití nápoje Julie skutečně vypadá jako mrtvá. Paris její smrti věř
 > bys hanbu zahnala, když smrti samé
 > chceš běžet v ústrety, bys hanbě ušla.
 > Nebojíš-li se, poradím ti lék.
-> 
-> **Julie**
+>
+> **Julie**:
 > Než bych se vdala za Parise, spíš
 > z cimbuří tamté staré věže skočím;
 > tam, kde jsou vrazi, půjdu, pelešit
@@ -106,8 +113,8 @@ Po vypití nápoje Julie skutečně vypadá jako mrtvá. Paris její smrti věř
 > vše bez pochyb a strachu podstoupím,
 > při pouhé zmínce co mě roztřásalo,
 > abych se choti zachovala čistá.
-> 
-> **Vavřinec**
+>
+> **Vavřinec**:
 > Tak jen jdi domů, utěš se a řekni,
 > že k sňatku svoluješ. Zítra je středa.
 > Hleď zítra v noci raděj sama spát
@@ -140,16 +147,16 @@ Po vypití nápoje Julie skutečně vypadá jako mrtvá. Paris její smrti věř
 > Tak uchráníš se hanby, jež ti hrozí,
 > jestliže nestálost a ženský strach
 > tvou smělost k provedení nenalomí.
-> 
-> **Julie**
+>
+> **Julie**:
 > Dej mi to, dej! Mně nemluv o strachu!
-> 
-> **Vavřinec**
+>
+> **Vavřinec**:
 > Tak vezmi! Jdi! Buď silná v předsevzetí,
 > a pochodíš! Já ihned vyšlu bratra
 > s dopisem do Mantovy k tvému choti.
-> 
-> **Julie**
+>
+> **Julie**:
 > Stůj při mně, lásko! Lásko, dej mi sílu,
 > a zvítězím! - Buď sbohem, drahý otče.
 

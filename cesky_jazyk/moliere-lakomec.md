@@ -118,21 +118,38 @@ Taktéž se neuchytila, protože byla psána formou prózy.
 
 ## Ukázka
 > **++Výstup 3.++**
+>
 > *Harpagon, La Flèche*
+>
 > **HARPAGON**: Kliď se hned a bez odmluvy! Táhni odsud, zapřísáhlý darebo a šibeničníku!
+>
 > **LA FLÈCHE ** *(stranou)* : Co jsem živ, neviděl jsem tak zlého člověka jako tento proklatý dědek, a já myslím, ten má jistě čerta v těle!
+>
 > **HARPAGON**: Co to huhláš mezi zuby?
+>
 > **LA FLÈCHE**: Proč mne vyháníte?
+>
 > **HARPAGON**: A ty se ještě ptáš, lotře, po důvodech? Rychle, kliď se, než tě zabiju.
+>
 > **LA FLÈCHE**: Co jsem vám udělal?
+>
 > **HARPAGON**: Tys udělal, že chci, abysi se klidil!
+>
 > **LA FLÈCHE**: Můj pán, váš syn, nařídil mi, bych jej očekával.
-> **HARPAGON**: Jdi jej očekávat na ulici a ne v mém domě, kde stále stojíš vztýčen jako na stráži vyzvídaje, co se kde šustne a využitkuješ všecko! Nechci míti stále kol sebe špehouna svého počínání a zrádce, jehož proklaté oči sledují každý krok můj, hltají vše, co je mým, a čenichají na všech stranách, kde co se dá ukradnout!
+>
+> **HARPAGON**: Jdi jej očekávat na ulici a ne v mém domě, kde stále stojíš vztýčen jako na stráži vyzvídaje, co se kde šustne a >využitkuješ všecko! Nechci míti stále kol sebe špehouna svého počínání a zrádce, jehož proklaté oči sledují každý krok můj, hltají vše, >co je mým, a čenichají na všech stranách, kde co se dá ukradnout!
+>
 > **LA FLÈCHE**: Rád bych věděl, jak vás někdo může okrásti? Což jste k okradení, když vše uzavíráte, a jste na stráži ve dne v noci?
+>
 > **HARPAGON**: Zavírám, co za dobré uznávám a stojím na stráži, jak se mi zlíbí. Což není stále dost špiclů okolo, kteří na vše pozor dávají? *(Stranou.)* Chvěji se, jestli jen nevypátral mé peníze? *(Nahlas.)* Či nerozkřikoval jsi po městě, že ukrývám doma peníze?
+>
 > **LA FLÈCHE**: Vy máte schované peníze?
+>
 > **HARPAGON** : Ne, ničemo, to jsem neřek! *(K sobě.)* Já se vzteknu! *(Nahlas.)* Ptám se jen, jestli jsi v své zlomyslnosti podobné
 > řeči neroztrušoval?
+>
 > **LA FLÈCHE**: Hm, co mi po tom, máte-li peníze, nebo ne, to je mi pořád pět!
+>
 > **HARPAGON** *(zvedá ruku, by jej poličkoval)* : Ty ještě rozumuješ? Vytáhám ti za uši, a tím ukončím tvé rozumování. Kliď se odsud, naposled!
+>
 > **LA FLÈCHE**: Nu dobrá, – já jdu!

@@ -20,11 +20,11 @@ Italské město **Verona**
 - chronologická
 - prolog + **5** dějství
 
-
 ### Literární druh a žánr
 tragédie
 
 ### Jazykové prostředky
+- ich forma
 - spisovný, vnešený a vytříbený jazyk
 - užití metafor, přirovnání, hyperbol
 - dlouhé dialogy
@@ -53,11 +53,13 @@ Po vypití nápoje Julie skutečně vypadá jako mrtvá. Paris její smrti věř
 ## Literárně-historický kontext
 
 ### Kontext Autorovy tvorby
-- anglický básník
+- anglický básník žil v 16.-17. století
 - možná největší světový dramatik
 - o jeho soukromém životě existuje málo informací
+- jeho hry se hrály v královském dvoře
 
 ### Literární / kulturní kontext
+Hra je oslavou renesanční individuality proti středověké závislosti na kolektivu a nejrůznějších společenských skupinách a institucích ( církvi, rodině, cechu, společenské vrstvě).
 
 ## Ukázka
 > **Julie**:

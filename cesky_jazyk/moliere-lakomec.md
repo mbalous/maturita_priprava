@@ -68,8 +68,8 @@ chronologická
 	- donáší na služebnictvo
 - Anselm
 	- bohatý šlechtic
-	- otec Valéra a Mariany
-- La Fléche
+	- na konci hry se ukáže, že je to otec Valéra a Mariany
+- La Fléche (Čipera)
 	- Kleantův sluha
 - Frosina
 	- dohazovačka
@@ -97,18 +97,13 @@ Valér přiznává, že je synem hraběte Tomase d'Alburci. On jediný přežil,
 
 Kleant vrátí otci ukradené peníze s podmínkou, že se bude moci oženit s Marianou a Eliška s Valérem. Harpagon s vidinou navrácených peněz souhlasí, a vlastně na tom vydělává: svatební výlohy a náklady za vyšetřování bude platit Anselm. Harpagon je spokojen a zůstává sám se svými penězi.
 
-
 ## Literárně-historický kontext
 
 ### Kontext Autorovy tvorby
-
-#### Autor
+- autor 33 komedií
 - autor se narodil v Paříži v 17. století
 - ředitel královského divadla v Paříži
 - konflikt s církví
-
-#### Tvorba
-- autor 33 komedií
 - navazoval na tradici francouzské frašky
 - psal odvážné veselohry, kde kritizoval a zesměšňoval církev i šlechtu a morálku
 - odsuzoval pokrytectví
@@ -120,3 +115,24 @@ Kleant vrátí otci ukradené peníze s podmínkou, že se bude moci oženit s M
 ### Literární / kulturní kontext
 Ve své době se Lakomec nesetkal s úspěchem u diváků, protože předstihl svými pokrokovými názory dobu X v současnosti stále nejvíce hraná francouzská komedie.
 Taktéž se neuchytila, protože byla psána formou prózy.
+
+## Ukázka
+> **++Výstup 3.++**
+> *Harpagon, La Flèche*
+> **HARPAGON**: Kliď se hned a bez odmluvy! Táhni odsud, zapřísáhlý darebo a šibeničníku!
+> **LA FLÈCHE ** *(stranou)* : Co jsem živ, neviděl jsem tak zlého člověka jako tento proklatý dědek, a já myslím, ten má jistě čerta v těle!
+> **HARPAGON**: Co to huhláš mezi zuby?
+> **LA FLÈCHE**: Proč mne vyháníte?
+> **HARPAGON**: A ty se ještě ptáš, lotře, po důvodech? Rychle, kliď se, než tě zabiju.
+> **LA FLÈCHE**: Co jsem vám udělal?
+> **HARPAGON**: Tys udělal, že chci, abysi se klidil!
+> **LA FLÈCHE**: Můj pán, váš syn, nařídil mi, bych jej očekával.
+> **HARPAGON**: Jdi jej očekávat na ulici a ne v mém domě, kde stále stojíš vztýčen jako na stráži vyzvídaje, co se kde šustne a využitkuješ všecko! Nechci míti stále kol sebe špehouna svého počínání a zrádce, jehož proklaté oči sledují každý krok můj, hltají vše, co je mým, a čenichají na všech stranách, kde co se dá ukradnout!
+> **LA FLÈCHE**: Rád bych věděl, jak vás někdo může okrásti? Což jste k okradení, když vše uzavíráte, a jste na stráži ve dne v noci?
+> **HARPAGON**: Zavírám, co za dobré uznávám a stojím na stráži, jak se mi zlíbí. Což není stále dost špiclů okolo, kteří na vše pozor dávají? *(Stranou.)* Chvěji se, jestli jen nevypátral mé peníze? *(Nahlas.)* Či nerozkřikoval jsi po městě, že ukrývám doma peníze?
+> **LA FLÈCHE**: Vy máte schované peníze?
+> **HARPAGON** : Ne, ničemo, to jsem neřek! *(K sobě.)* Já se vzteknu! *(Nahlas.)* Ptám se jen, jestli jsi v své zlomyslnosti podobné
+> řeči neroztrušoval?
+> **LA FLÈCHE**: Hm, co mi po tom, máte-li peníze, nebo ne, to je mi pořád pět!
+> **HARPAGON** *(zvedá ruku, by jej poličkoval)* : Ty ještě rozumuješ? Vytáhám ti za uši, a tím ukončím tvé rozumování. Kliď se odsud, naposled!
+> **LA FLÈCHE**: Nu dobrá, – já jdu!

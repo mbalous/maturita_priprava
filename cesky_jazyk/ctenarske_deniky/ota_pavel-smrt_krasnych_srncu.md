@@ -5,22 +5,27 @@
 ## Dílo
 
 ### Téma a motiv
-
+Kniha je sbírkou autobiografických próz, jejichž klíčovou postavou je tatínek Oty Pavla Leo Popper.
 
 ### Místo a čas
-
+Buštěhrad, Praha, Křivoklátsko
+první polovina 20. století - před 2. světovou válkou, v jejím průběhu a po ní 
 
 ### Kompozice
 povídková kniha
 
 ### Literární druh a žánr
-
+Jednotlivé příběhy vyprávěny v ich-formě z pohledu autora – malého chlapce.
 
 ### Jazykové prostředky
 
 
 ### Postavy
-
+- tatínek Leo Popper - posedlý svými touhami a sny, žid, dobrý obchodník
+- maminka Herma
+- Ota Pavel - vypravěč, jeho otec je pro něj vzorem
+- Hugo a Jiří - Otovi starší sourozenci, byli posláni do koncentračních táborů
+- strejda Prošek
 
 ### Děj
 
@@ -34,6 +39,13 @@ Tatínek pracoval u firmy Electrolux jako prodavač ledniček a vysavačů. Žen
 Povídka začíná v předválečném období a popisuje, jak si Karel Prošek si pořídil obrovskýho psa připomínajícího vlčáka (Holan), se kterým zabíjí srnce na stráni, která by se mohla jmenovat **smrt krásných srnců** (odtud název). Za pár let přijde předvolání nejstarších synů do koncentračního tábora. Tatínek jim chce dát před odjezdem ještě pořádně najíst masa, ale doma skoro nic nemají. Rozhodne se tedy riskovat chycení a řekne, že jede na ryby na chatu Karla Proška. Tam se snaží neúspěšně rybařit a proto požádá strejdu Proška, aby mu ulovil srnce. Ten to ze strachu o rodinu neudělá (je za to trest smrti), ale tatínek ho přemluví, aby mu půjčil alespoň Holana. Poslední den před odjezdem se přes drobné potíže podařilo Srnce ulovit. Objevili se však rybáři a chtěli si srnce vzít. Strejdu Karla Proška ale napadlo, že se pro něj vrátí a vystraší rybáře jako páni nadlesní. To se povede a Karel odjíždí na Buštěhrad se srncem. Následuje popis toho, jak Hugo a Jiří (starší bratři Oty) jdou do koncentráku a soudí, že se jim podařilo přežít právě kvůli zásobě masa před odchodem.
 
 #### Kapři pro wehrmacht
+Hned na začátku okupace vzali tatínkovi jeho milovaný buštěhradský rybník, kde choval kapry. Přesto, že mu rybník už nepatřil, chodil k němu krmit kapry chlebem, kterého měli sami málo, v naději že mu ho jednou vrátí. Toto přesvědčení ho přešlo po vypálení Lidic. Další ránou bylo povolání Otových starších bratrů do koncentračního tábora. Před vánoci nakonec povolali do tábora i tatínka. V noci před odjezdem vzbudil malého Ottu a zavedl ho k rybníku, kde kapři nemohli dýchat kvůli ledu. Tatínek jako dobrý rybář vysekal díry a následně do pytlů pochytal všechny kapry, kteří připluli a lapali po dechu. Doma je maminka rozdělila do nádob. Když pak tatínek odjel, začali je vyměňovat za jídlo. V příštím roce přijeli slavnostně Němci vylovit rybník a nestačili se divit, že je prázdný.
+
+#### Otázka hmyzu vyřešena
+Povídka popisuje období po válce, jak se tatínkovi špatně prodávalo. Tatínek vzpomíná, jak se mu před válkou dobře žilo. Zkouší prodávat různé věci až potká inženýra Jedličku, který má geniální plán prodávat mucholapky. Mucholapky se nikomu nedařilo kvůli jejich vlastnostem (nelepily) prodat. Maminka nejdříve tatínka od prodeje mucholapek odrazovala, posléze se ale začalo prodávat ohromné množství mucholapek díky tatínkově prodejnímu umu. Nakonec vyslal Otu na Moravu, aby zkusil své štěstí on a i jemu se podařilo prodat 50 tisíc kusů. Lidé ale s prvními mouchami zjistili, že mucholapky vůbec mouchy nelapí a nespokojeni začínali posílat mucholapky zpět do skladu pana Jedličky. Po čase se tatínek (Ota) dozvídá, že holanďané s identickým produktem uspěli.
+
+#### Králící s modrýma očima
+
 
 ## Literárně-historický kontext
 

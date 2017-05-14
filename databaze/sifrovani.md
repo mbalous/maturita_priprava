@@ -6,4 +6,4 @@ je možné použít k zašifrování dat (s trochou úsilí, kterému se budeme 
 „Asymetrické klíče“ dále v této kapitole), Microsoft doporučuje, abyste šifrovali data výhradně
 s pomocí symetrických klíčů.
 
-![sifrovani_diagram](sifrovani.png)
+![sifrovani_diagram](sifrovani.PNG)

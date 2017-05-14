@@ -6,7 +6,7 @@
 - německý spisovatel
 - válečná literatura první poloviny 20. století
 - odešel jako dobrovolník do 1. světové války
-- po válce působil jako redaktor		
+- po válce působil jako redaktor
 - dostal se na seznam zakázaných autorů (nacisté ho zakázali)
 - roku 1939 odjel do New Yorku
 - jeho další dílo **Cesta zpátky** pojednává o návratu vojáku z války do normálního života

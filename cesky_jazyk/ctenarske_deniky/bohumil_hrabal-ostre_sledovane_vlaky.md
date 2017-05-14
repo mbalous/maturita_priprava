@@ -53,8 +53,13 @@ Jednoho večera se výpravčí Hubička svěřuje Milošovi se svým plánem vyh
 - známý **román** "Obsluhoval jsem anglického krále"
 - motiv sebevraždy se oběvuje ve více jeho dílech
 - mnoho jeho knih se dočkalo **zfilmování**
+- další autorova díla
+	- Obsluhoval jsem Anglického krále – hl. hrdina Jan Dítě je malého vzrůstu, vnucuje se do vyšších vrstev
+	- Slavnosti sněženek – soubor povídek o obyvatelích chytové oblasti Kersko
 
 ### Literární / kulturní kontext
+- česká próza 2. pol. 20. stol., oficiálně vydávaná i zakázaná
+- další autoři stejného směru: Ota Pavel, Milan Kundera
 
 ## Ukázka
 > A já mu nasadil hlaveň pušky k oku a stiskl spoušť, tak divně jsem při tom ležel. A pak jsem slyšel, jak zmlkl, viděl jsem, jak jeho nohy zvolna a tiše došly, zastavily se, ležel jsem na něm a slyšel, jak do vojáka vniká klid a ticho, jak se všechno zastavuje, jak stroje, když padla. A ze mne crčela krev a třísnil jsem vojákovi šaty, vytáhl jsem kapesník a snažil jsem se čistit tu krvavou skvrnu a oddychoval jsem a začal jsem se dusit, ale vší silou jsem se převalil a natáhl jsem ruku a chytil ten řetízek, kterého se držel voják, jehož obličej zklidněl, jen místo pravého oka byla ožehnutá díra jako modrý monokl... a utrhl jsem ten řetízek, kterého se držel mrtvý, a ve světle měsíce jsem viděl, že to je medailónek, na jehož jedné straně je zelený čtyřlístek a na druhé straně nápis: Bringe Glück. A nepřinesl štěstí ten čtyřlístek ani tomu vojákovi, ani mně, taky to byl člověk jako já nebo pan výpravčí Hubička, taky neměl žádné vyznamenání, žádnou hodnost, a přece jsme jeden druhého postřelili a jeden druhého přivedli ke smrti, ač jistě, kdybychom se někde potkali v civilu, možná, že bychom se měli rádi, pohovořili si.

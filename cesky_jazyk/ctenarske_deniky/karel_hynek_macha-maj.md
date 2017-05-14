@@ -5,7 +5,8 @@
 ## Dílo
 
 ### Téma a motiv
-
+- Mácha pojal skladbu jako osobní zpověď rozervaného romantického člověka plného nejistot a otázek po smyslu života.
+- příběh zřejmě inspirován skutečnou událostí
 
 ### Místo a čas
 tragický příběh se odehrává na **Máchově jezeře pod Bezdězem**
@@ -20,11 +21,12 @@ tragický příběh se odehrává na **Máchově jezeře pod Bezdězem**
 lyricko-epická básnická skladba s romantickou zápletkou
 
 ### Jazykové prostředky
-
+- množství metafor
+- oxymoróny (zborcené harfy tón, umřelé hvězdy svit)
 
 ### Postavy
 - Jarmila - zoufalá, čeká na svého milého, spáchá sebevraždu skokem do jezera
-- Vilém - střasný lesu pán, zamilován do Jarmily, zavraždil jejího svůdce - což byl i jeho otec
+- Vilém - střasný lesu pán (obávaný vůdce loupežníků), zamilován do Jarmily, zavraždil jejího svůdce - což byl i jeho otec
 
 ### Děj
 
@@ -51,10 +53,11 @@ napsán v **první** osobě
 
 
 ### Kontext Autorovy tvorby
+- dožil se jen 26 let (dílo s hlubokou myšlenkou napsal jako mladík)
 - Máj je nejznámější Máchovo dílo
 - s vlastním nákladem ho vydal v roce 1836
 
 ### Literární / kulturní kontext
-- český romantismus
+- vrcholné dílo českého literárního romantismu
 
 ## Ukázka

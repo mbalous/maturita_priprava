@@ -13,7 +13,7 @@
 	- hádanka
 
 ### Místo a čas
-
+prostředí Prahy 1. poloviny 19. století
 
 ### Kompozice
 
@@ -27,7 +27,8 @@
 - archaismy
 
 ### Postavy
- - vypravěč - pravděpodobně samotný Arbes, spisovatel, žurnalista
+ - vypravěč - (autobiografické prvky) pravděpodobně samotný Arbes, spisovatel, žurnalista, ctitel výtvarného umění
+ - přítel - přítel a příbuzný žijící ve Vídni, malíř
  - Xaverius - samotář, nevinný, bezbbranný, podobá se postavě na obrazu svatého Xaveria
 
 ### Děj
@@ -41,15 +42,25 @@ Jednou byl **Xaverius** zavřen v chrámu a **objevil** v obraze na prsou, čele
 
 Porovnáváním starých map **Xaverius získává cestu**,  na kterou se s **Arbesem** vydávají za **pokladem**. Jako důkaz příteli dokládá kameny, které již na své průzkumné cestě X našel: žlutý topas, ametyst a safír. V 10 večer se vydávají na cestu, která je od domu vzniku Balkovy myšlenky, přes Oujezdskou bránu, smíchovský parní mlýn, vršinu Skalka, kaštanovým stromořadím k vinici Santoška, do kopce hluboký úvoz až k vinici Březinka. Žitným polem se dostavili k místu, kde měl být údajně poklad. Měsíc byl v zemitu (nad námi). Začali motykou a lopatou kopat. Jako první **vykopávají** zelený **smaragd**, poté malachitovou rudu, kusy realgaru a rubín. Když vykopli kus zlata, našli rezavou plechovou krabičku. Když Arbes chtěl rozsvítit lucernu, kterou Xaverius někam zakopnul, **sirka spadne do trávy** a ta **vzplane** rudým plamenem. Oba utíkají pryč.
 
-Po nalezení pokladu se Xaverius ztratil. Arbes se stal spisovatelem a žurnalistou. Koncem 1868 byl v Čechách ustanoven generálem z Prahy ,,výminečný stav“. Arbes se stal odpovědným redaktorem opozičního politického deníku. Odebíral hříchy ze svých kolegů, za které by jiní už byli v cele. Za to šel na 4 měsíce do cely v novoměstské trestnici. Návladní z Prahy na Arbese podal stížnost a začal to řešit soud ve Vídni, kam byl Arbes přesunut do kriminálu. Jeho přítel (ze začátku příběhu) se s ním sešel a zařídil mu amnestii. Přítel se zajímá o obraz sv. Xaveria a Arbes mu řekl jeho příběh, kterým byl přítel interesován. Na rozdíl od Prahy bylo ve Vídeňském vězení povoleno čtení politických časopisů a procházení po dvoře celý den. Byl duben, ale teplo bylo jako v červnu. Dlážděný dvůr byl rozdělen na 6 částí, byly tam záhony se zelenými stromy a besídkou. Arbes potkává ve věznici Xaveria, který je odsouzen na 7 let. Pracuje u písařů-vězni opisující soudní akta za lepší stravu. Xaverius vypráví, co doopravdy našel v plechové krabičce – několik druhů neocenitelných kamenů.
+Po nalezení pokladu se Xaverius ztratil (znovu se setkají až po třech letech ve vězení). Arbes se stal spisovatelem a žurnalistou. Koncem 1868 byl v Čechách ustanoven generálem z Prahy ,,výminečný stav“. Arbes se stal odpovědným redaktorem opozičního politického deníku. Odebíral hříchy ze svých kolegů, za které by jiní už byli v cele. Za to šel na 4 měsíce do cely v novoměstské trestnici. Návladní z Prahy na Arbese podal stížnost a začal to řešit soud ve Vídni, kam byl Arbes přesunut do kriminálu. Jeho přítel (ze začátku příběhu) se s ním sešel a zařídil mu amnestii. Přítel se zajímá o obraz sv. Xaveria a Arbes mu řekl jeho příběh, kterým byl přítel interesován. Na rozdíl od Prahy bylo ve Vídeňském vězení povoleno čtení politických časopisů a procházení po dvoře celý den. Byl duben, ale teplo bylo jako v červnu. Dlážděný dvůr byl rozdělen na 6 částí, byly tam záhony se zelenými stromy a besídkou. Arbes potkává ve věznici Xaveria, který je odsouzen na 7 let. Pracuje u písařů-vězni opisující soudní akta za lepší stravu. Xaverius vypráví, co doopravdy našel v plechové krabičce – několik druhů neocenitelných kamenů.
 
 Xaverius je vězněn za podezření za krádež drahokamů na obrazu umírajícího svatého Xaveria. Jenže v ten den kdy byly kamenu ukradeny, byli s Arbesem na cestě za pokladem. Arbes se snaží o propuštění Xaveria, který je viditelně nemocný (prý od vykopání pokladu).Amnestie byla díky příteli schválena i na Xaveria jenže v den Arbesova propuštěný **Xaverius umírá.**
 
 ## Literárně-historický kontext
 
 ### Kontext Autorovy tvorby
+- narodil se v Praze (19. století), redaktorem Národních listů (byl donucen odejít)
 - Svatý Xaverius je první prózou, kterou na radu J.Nerudy autor označil jako ,,pražské romaneto“.
+- je to jeho nejslavnější dílo (1873)
+- napsal více romanet (Akrobat)
+- Sympatizoval s májovci, avšak neřadil se mezi ně, neboť tvořil za jiných okolností než oni.
 
 ### Literární / kulturní kontext
 - realismus (logické vyřešení záhad, dlouhé popisné pasáže, realistické vyobrazení postav)
 - romantismus (rozvrácený hlavní hrdnina, noční kostel)
+
+## Ukázka
+
+
+* * *
+- **romaneto** - Jedná se o románovou skladbu menšího rozsahu, v níž prostupují děj úvahy vědecké, filozofické a sociální.
